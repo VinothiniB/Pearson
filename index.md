@@ -66,7 +66,7 @@
 <form name="myForm6" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
         
 
-        <input type="submit" id="Ivalid" name="launch" value="Invalid Bundle">
+        <input type="submit" id="Invalid" name="launch" value="Invalid Bundle">
 </form>
 
 </body></html>"

@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<a href="http://loginppe.pearsoncmg.com/sso/SSOServlet2?cmd=login&okurl=http://www.boston.com&errurl=http://www.yahoo.com&loginname=staging_inst2&encPassword=N&password=Password1&siteid=15102" target="_blank">Login </a> <br>
 
-You can use the [editor on GitHub](https://github.com/VinothiniB/Pearson/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<form name="myForm1" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/xl" method="post" target="_blank">
+        tool_consumer_instance_guid: <input type="text" name="tool_consumer_instance_guid" value="xl-he"><br><br>
+        context_id : <input type="text" name="context_id" value="urn:udson:pearson.com/xl/devdb:course/159915"><br> <br>   
+   context_type : <input type="text" name="context_type" value="CourseSection"> <br> <br>
+    
+    user_id : <input type="text" name="user_id" value="urn:udson:pearson.com/xl/devdb:user/79374"><br> <br>
+    custom_bookid : <input type="text" name="custom_bookid" value="4ZHFIVJKMVR"><br> <br>
+        custom_bundleid: <input type="text" name="custom_bundleid" value="COEAQ7288RQ"><br> <br>
+    custom_smsid : <input type="text" name="custom_smsid" value="urn:udson:pearson.com/sms/test:user/9794577"><br><br>
+           <!--role : <input type="text" name="role" value="instructor"><br> <br>-->
+                role : <input type="text" name="role" value="175cca0310b93021a7d3cfb3e4877ab657"><br> <br>
+    custom_displaycourseid : <input type="text" name="custom_displaycourseid" value="XL0N-01O4-40L7-2Y81"><br> <br>
+    custom_course_name : <input type="text" name="custom_course_name" value="disaggregated + course aware"><br> <br>
+        
 
-### Markdown
+        <input type="submit" name="launch" value="Course Aware (XL)">
+</form>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<form name="myForm2" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
+        
 
-```markdown
-Syntax highlighted code block
+        <input type="submit" name="launch" value="Non- Course Aware (platform-11)">
+</form>
 
-# Header 1
-## Header 2
-### Header 3
+<form name="myForm2" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
+        
 
-- Bulleted
-- List
+        <input type="submit" name="launch" value="Invalid Bundle">
+</form>
 
-1. Numbered
-2. List
+</body></html>"
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VinothiniB/Pearson/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+

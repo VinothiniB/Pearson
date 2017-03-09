@@ -19,13 +19,13 @@
         <input type="submit" name="launch" value="Course Aware (XL)">
 </form>
 
-<form name="myForm2" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
+<form name="myForm2" id="Non- Course Aware" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
         
 
-        <input type="submit" name="launch" value="Non- Course Aware (platform-11)">
+        <input type="submit" id="Course Aware (XL)" name="launch" value="Non- Course Aware (platform-11)">
 </form>
 
-<form name="myForm3" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
+<form name="myForm3" id="Invalid" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
         
 
         <input type="submit" name="launch" value="Invalid Bundle">
@@ -39,7 +39,7 @@
 <a href="http://loginppe.pearsoncmg.com/sso/SSOServlet2?cmd=login&okurl=http://www.boston.com&errurl=http://www.yahoo.com&loginname=staging_stud&encPassword=N&password=pa55word&siteid=15102" target="_blank">Login </a> <br>
 
 
-<form name="myForm1" id="Student" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/xl" method="post" target="_blank">
+<form name="myForm4" id="Student" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/xl" method="post" target="_blank">
         tool_consumer_instance_guid: <input type="text" name="tool_consumer_instance_guid" value="xl-he"><br><br>
         context_id : <input type="text" name="context_id" value="urn:udson:pearson.com/xl/devdb:course/159915"><br> <br>   
    context_type : <input type="text" name="context_type" value="CourseSection"> <br> <br>
@@ -54,16 +54,16 @@
     custom_course_name : <input type="text" name="custom_course_name" value="disaggregated + course aware"><br> <br>
         
 
-        <input type="submit" name="launch" value="Course Aware (XL)">
+        <input type="submit" id="Course Aware (XL)" name="launch" value="Course Aware (XL)">
 </form>
 
-<form name="myForm2" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
+<form name="myForm5" id="Non- Course Aware (platform-11)" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
         
 
         <input type="submit" name="launch" value="Non- Course Aware (platform-11)">
 </form>
 
-<form name="myForm3" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
+<form name="myForm6" id="Ivalid" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
         
 
         <input type="submit" name="launch" value="Invalid Bundle">

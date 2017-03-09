@@ -19,16 +19,16 @@
         <input type="submit" name="launch" value="Course Aware (XL)">
 </form>
 
-<form name="myForm2" id="Non- Course Aware" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
+<form name="myForm2" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
         
 
-        <input type="submit" name="launch" value="Non- Course Aware (platform-11)">
+        <input type="submit" id="Non- Course Aware" name="launch" value="Non- Course Aware (platform-11)">
 </form>
 
-<form name="myForm3" id="Invalid" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
+<form name="myForm3" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
         
 
-        <input type="submit" name="launch" value="Invalid Bundle">
+        <input type="submit" id="Invalid" name="launch" value="Invalid Bundle">
 </form>
 
 
@@ -57,16 +57,16 @@
         <input type="submit" name="launch" value="Course Aware (XL)">
 </form>
 
-<form name="myForm5" id="Non- Course Aware (platform-11)" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
+<form name="myForm5" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/EEK3Q8YJ0CQ" method="get" target="_blank">
         
 
-        <input type="submit" name="launch" value="Non- Course Aware (platform-11)">
+        <input type="submit" id="Non- Course Aware (platform-11)" name="launch" value="Non- Course Aware (platform-11)">
 </form>
 
-<form name="myForm6" id="Ivalid" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
+<form name="myForm6" action="http://paperapi.stg-openclass.com/nextext-api/api/platforms/platform-11/books/EEJHO7Z08E0/bundles/1234" method="get" target="_blank">
         
 
-        <input type="submit" name="launch" value="Invalid Bundle">
+        <input type="submit" id="Ivalid" name="launch" value="Invalid Bundle">
 </form>
 
 </body></html>"

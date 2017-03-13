@@ -7,8 +7,8 @@
    context_type : <input type="text" name="context_type" value="CourseSection"> <br> <br>
     
     user_id : <input type="text" name="user_id" value="urn:udson:pearson.com/xl/devdb:user/79374"><br> <br>
-    custom_bookid : <input type="text" name="custom_bookid" value="4ZHFIVJKMVR"><br> <br>
-        custom_bundleid: <input type="text" name="custom_bundleid" value="COEAQ7288RQ"><br> <br>
+    custom_bookid : <input type="text" name="custom_bookid" value="BYK6DSLA77O"><br> <br>
+        custom_bundleid: <input type="text" name="custom_bundleid" value="28OMD8N8WVA"><br> <br>
     custom_smsid : <input type="text" name="custom_smsid" value="urn:udson:pearson.com/sms/test:user/9794577"><br><br>
            <!--role : <input type="text" name="role" value="instructor"><br> <br>-->
                 role : <input type="text" name="role" value="175cca0310b93021a7d3cfb3e4877ab657"><br> <br>
@@ -45,8 +45,8 @@
    context_type : <input type="text" name="context_type" value="CourseSection"> <br> <br>
     
     user_id : <input type="text" name="user_id" value="urn:udson:pearson.com/xl/devdb:user/79374"><br> <br>
-    custom_bookid : <input type="text" name="custom_bookid" value="4ZHFIVJKMVR"><br> <br>
-        custom_bundleid: <input type="text" name="custom_bundleid" value="COEAQ7288RQ"><br> <br>
+    custom_bookid : <input type="text" name="custom_bookid" value="BYK6DSLA77O"><br> <br>
+        custom_bundleid: <input type="text" name="custom_bundleid" value="28OMD8N8WVA"><br> <br>
     custom_smsid : <input type="text" name="custom_smsid" value="urn:udson:pearson.com/sms/test:user/9794577"><br><br>
            <!--role : <input type="text" name="role" value="instructor"><br> <br>-->
                 role : <input type="text" name="role" value="student"><br> <br>
